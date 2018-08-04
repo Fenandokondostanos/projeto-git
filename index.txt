@@ -1,1 +1,2 @@
 Nossa primeira alteração nesse arquivo
+corrigido o bug deste arquivo
